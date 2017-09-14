@@ -1,0 +1,3 @@
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet 
+This link is provide information for Markdown file 
+This file is provide operation on text like bold text, italic text and so on. 
